@@ -5,7 +5,7 @@ public class App {
         String password = "123abc";
         String captcha = generateCaptcha();
 
-        System.out.println("\nSelamat datang! Silakan login.");
+        System.out.println("\nSelamat datang! Silahkan login.");
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("------------------------------");
